@@ -1,4 +1,4 @@
-#include<stdio.h>
+In#include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 int i,j;
